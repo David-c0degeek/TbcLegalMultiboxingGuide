@@ -11,6 +11,63 @@ This guide is for a **PvE-focused, 10-man multibox setup** in **The Burning Crus
 
 ---
 
+## 🧠 Design Philosophy: Why These Picks?
+
+> *“This isn’t the highest theoretical DPS team. It’s the best team **for how I play**. And that distinction matters more than most guides admit.”*
+
+This team is heavily tailored to **manual-control multiboxing**, not broadcasting or hotkey mirroring. That distinction introduces constraints that radically affect optimal class and spec choices. Here's a breakdown of key logic behind several non-obvious picks:
+
+---
+
+### 🦁 Why a Beast Mastery Hunter?
+
+Many guides will tell you to bring another Warlock or Ele Shaman instead — and they'd be **mathematically right**. But here's the practical truth:
+
+* **BM Hunters are passive DPS machines.** One button (`/petattack + Steady Shot`) and they contribute meaningfully with almost no micromanagement.
+* In **manual multiboxing**, you're cycling between 10 characters. By the time you cast spells on character 7 or 8, characters 9 and 10 are often idle. A hunter doesn’t idle — it **just works**.
+* Hunters bring:
+
+  * **Misdirection** for clean pulls (especially vital when tank range is limited, like Paladins)
+  * **Traps** as strong pre-pull CC
+  * **Trueshot Aura** (raid-wide AP bonus)
+  * **Ferocity pet buffs** (via Cobra Reflexes, Ferocious Inspiration)
+  * **Low loot overlap**, meaning better gearing for others
+
+So no, it's not *optimal* DPS — it's *optimal consistency and uptime*, which is far more important when every second of micromanagement costs teamwide performance.
+
+---
+
+### 🧛 Why 2 Shadow Priests?
+
+You might ask: why two? Isn’t one enough?
+
+Here’s the logic:
+
+* **Symbol of Hope** is the strongest MP5 tool in the game — **and it stacks over time**, not simultaneously. Two priests = **staggered uptime** = mana security.
+* **Vampiric Touch** provides **passive mana** to their party, which is invaluable in long fights where multibox DPS is inherently lower and mana depletion is real.
+* The second SPriest acts as a **2.5th healer** with off-spec Disc talents and **Improved Divine Spirit**, giving huge utility and regen.
+* You also gain **more passive healing** (VT), extra Fear Wards, and backup Symbol of Hope in case one dies.
+
+For a multiboxer, mana security is survival. A team out of mana is a team dead.
+
+---
+
+### 🎲 Why Avoid Duplication?
+
+Yes, the "meta" comp is 5x Elemental Shaman — and it's devastatingly effective.
+
+But I play this game to enjoy the diversity of classes and the flavor each brings. This guide intentionally avoids duplicate classes **unless they play different roles** (e.g. Holy vs Prot Paladin, Resto vs Ele Shaman, Disc vs Shadow Priest).
+
+This enriches the experience:
+
+* **More utility diversity**
+* **More fun** (you don’t want 6 identical rotations)
+* **Greater engagement** with each character's role
+
+So while you won’t see 6 Fireballs flying in perfect sync — you will see a functioning orchestra of unique contributions that keep me, the multiboxer, engaged and challenged.
+
+---
+
 ## 🧱 Team Composition
 
 | Role                | Class/Spec               | Dual-Spec | Race      | Highlights                                                               |
