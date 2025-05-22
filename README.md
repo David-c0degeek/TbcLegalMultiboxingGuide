@@ -73,8 +73,8 @@ So while you won’t see 6 Fireballs flying in perfect sync — you will see a f
 | Role                | Class/Spec               | Dual-Spec | Race      | Highlights                                                               |
 | ------------------- | ------------------------ | --------- | --------- | ------------------------------------------------------------------------ |
 | 🛡 Tank             | **Protection Paladin**   | -         | Dwarf     | 1-button AoE tanking (Consecrate spam), full Blessings suite, best threat and survivability with minimal input, low-input tanking: super multibox-friendly |
-| ⚔ DPS / 🛡 Off-Tank | **Boomkin Druid**        | Feral     | Night Elf | Crit aura for casters, Mark of the Wild, Gereat OT when needed with dual-spec; Innervate support; MoTW, strong Starfire spam  |
-| ⚔ DPS / ❤️ Healer   | **Shadow Priest**        | Holy/Disc | Draenei   | Vampiric Touch for passive regen, Fortitude, Fear Ward, Symbol of Hope; dual-role caster/healer flexibility, Fort + Spirit buffss    |
+| ⚔ DPS / 🛡 Off-Tank | **Boomkin Druid**        | Feral     | Night Elf | Crit aura for casters, Mark of the Wild, Great OT when needed with dual-spec; Innervate support; MoTW, strong Starfire spam  |
+| ⚔ DPS / ❤️ Healer   | **Shadow Priest**        | Holy/Disc | Draenei   | Vampiric Touch for passive regen, Fortitude, Fear Ward, Symbol of Hope; dual-role caster/healer flexibility, Fort + Spirit buffs    |
 | ❤️ Healer           | **Restoration Shaman**   | -         | Draenei   | Bloodlust, Mana Tide, Earth Shield, party-only totem buffs (Healing Stream, Cleansing, Tremor), Heroic Presence                           |
 | ❤️ Healer           | **Holy Paladin**         | -         | Human     | Top-tier tank healing, Kings/Wisdom blessings, low APM healing, Aura Mastery utility                |
 | ⚔ DPS               | **Beast Mastery Hunter** | -         | Night Elf | Macro-friendly ranged DPS, Trueshot Aura (raid-wide AP), pet does most damage; requires minimal maintenance                 |
